@@ -6,6 +6,7 @@ Shamrock için genel optimizasyon için build.prop ayarları ekleyen bir Magisk 
 * WIFI tarama sıklığını azaltır
 * FPS limitini 60 yapar (oyunlarda daha stabil performans sağlamak için)
 * Görüşme ve Medya seslerinin ayar hassasiyetini yükseltir
+* Boot animasyonunu devre dışı bırakır (rom açılana kadar GM logosu ekranda kalır)
 
 ## Kurulum
 Sadece modülü yükleyin ve yeniden başlatın :)
