@@ -3,4 +3,4 @@ name=Build Prop Tweaks for Shamrock
 version=v1.0.1
 versionCode=1010
 author=omerakgoz34
-description=Shamrock için genel optimizasyon için build.prop ayarları
+description=Shamrock kod adındaki cihazlara genel optimizasyon için build.prop ayarları
